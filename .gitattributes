@@ -1,0 +1,2 @@
+*_encrypted.txt filter=git-crypt diff=git-crypt
+dir_encrypted/** filter=git-crypt diff=git-crypt
